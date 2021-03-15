@@ -1,0 +1,1 @@
+One of the reviews here stated this system supports VST only.  That is not true.  Go to IK Multimedia site and look at specs.  They support AAX, RTAS, etc.  I use Digital Performer at 64bit with Audio Units plugins. I avoided ordering this system because I don't use VST.  Now I know; ARC supports almost all formats.  I will order it and review it here.

@@ -1,0 +1,1 @@
+Definitely a functional inexpensive mic.  I've been using it with a focusrite itrack solo interface paired with a behringer xm8500 (sm58 clone).  I use the pdmic to point at a ukulele soundboard and point the xm8500 at the fretboard.  Here's a sample track with the pdmic78 in the right channel:  https://soundcloud.com/traeak/what-if-a-day-lanikai-lu21b

@@ -1,0 +1,1 @@
+The included ac adapter didn't work. I replaced it with a used Dell ac adapter and the leds worked fine.

@@ -1,0 +1,1 @@
+This tuner is very simple, and easy to use.  It is also accurate and picks up the vibrations of your guitar neck without the need to hit the strings hard.  On the down side, it does not work great during a performance as it seems to pick up the sound from other instruments via the acoustic guitar's body.

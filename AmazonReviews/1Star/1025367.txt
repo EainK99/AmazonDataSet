@@ -1,0 +1,1 @@
+Description says these lights are capable of &#34;chasing&#34; which is what I'm looking for, yet they do *NOT* have any effect other than fade, flash, and steady burn.

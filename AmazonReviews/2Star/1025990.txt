@@ -1,0 +1,1 @@
+Noticeable delay between moving a fader and response from a fixture. It is definitely a problem with the board. Works fine otherwise, work flow is a little weird and the midi function is hit and miss. If you're using it to set static looks it will work fine. Otherwise I would pass on this board.

@@ -1,0 +1,1 @@
+Unit being used to electrify a lighthouse.  Works great.  The rechargeable feature is a plus since no batteries need to be replaced.

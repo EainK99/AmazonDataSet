@@ -1,0 +1,1 @@
+I love this microphone! It took me a little bit to figure out how to set up all the bit rates and stuff (FYI if you want to use the 24bit/96KHZ plug your headphones into your computer not the mic , the mic only supports and audio output of 24bit/48KHZ where as most sound cards go up past 24bit/96KHZ.

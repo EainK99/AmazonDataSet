@@ -1,0 +1,1 @@
+The DMX terminator is simple and well-built. The opposite end has nice presentation as well. It does a good job with terminating the DMX circuit, though I am not sure it is necessary with only 3 lights in the circuit.

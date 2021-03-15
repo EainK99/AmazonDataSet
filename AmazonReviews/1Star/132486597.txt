@@ -1,0 +1,1 @@
+Returned the next day, as it won't read many CDs, and even when it does it takes 30-60 seconds to recognize the CD.

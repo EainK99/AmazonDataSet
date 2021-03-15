@@ -1,0 +1,1 @@
+No use directly into camera. Did not work for me. Believe me, I tried all I could.

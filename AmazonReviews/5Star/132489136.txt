@@ -1,0 +1,1 @@
+Using this cheap simple device will keep your chained together intelligent lighting from acting erratically. Just plug it into the output of the last connected device. Be sure you are using true dmx data cable and not just xlr microphone cable. I use this terminator combined with accu cable dmx cables.

@@ -1,0 +1,1 @@
+I use this to split my guitar/bass signal when recording. The guitar goes straight in, A goes into the amp that is micked, B goes straight in the sound card DI. Recorded a great album for my band The Johnny Pumps with it.

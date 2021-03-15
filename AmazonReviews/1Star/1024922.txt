@@ -1,0 +1,1 @@
+Flimsy adapter to reduce the pin to smaller size. Broke within a few times.

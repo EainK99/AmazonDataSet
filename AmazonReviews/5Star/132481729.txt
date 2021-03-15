@@ -1,0 +1,1 @@
+This item has a very simple function, allowing audio output from two devices to go to one set of speakers, and it works very well, as would be expected.

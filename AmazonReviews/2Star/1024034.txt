@@ -1,0 +1,1 @@
+Works as a standard headset plug to usb convertor. DOES NOT do 7.1 surround sound, at least not on a Mac, 2 channel stereo only.

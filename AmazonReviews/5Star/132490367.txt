@@ -1,0 +1,1 @@
+using the RCA analog outs made a significant difference in sound quality from the old SB card speaker out... worth changing from an onboard chipset or a gaming card just for better 2 channel music playback, even if the rest of the card's features are not needed

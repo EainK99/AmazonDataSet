@@ -1,0 +1,1 @@
+Like I said...max volume should be at detent...if not, you have one of the PUs out of phase, resulting in max volumes at end points.

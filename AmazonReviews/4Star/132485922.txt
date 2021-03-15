@@ -1,0 +1,1 @@
+The Looper does all that is promised however to use it for live applications you need to practice with the unit and your timing of the loop to properly sync .  I found that initially it wasn't changing fast enough and my loops had a delay dead spot at the end which of course doesn't work if you are accompanying yourself.

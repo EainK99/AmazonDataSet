@@ -1,0 +1,1 @@
+It sustains as it should. However, it triggers several random keys. So if I turn up the volume on my keyboard and press down the pedal, it produces the ugly sound of random keys. It should play no sound if I press the pedal without pressing any keys. My unit may be defective, but this issue is very annoying.

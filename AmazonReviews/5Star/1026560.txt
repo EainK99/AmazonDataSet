@@ -1,0 +1,1 @@
+Beautiful case that provides a lot of protection.

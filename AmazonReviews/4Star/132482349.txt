@@ -1,0 +1,1 @@
+It worked, although I should have just attempted a direct connection first. I found that my iPhone accepted the audio input with just a regular jack. No special adapter needed.

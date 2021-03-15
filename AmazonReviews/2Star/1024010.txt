@@ -1,0 +1,1 @@
+I got it to send signal to a float behind mine and one in front didn't work keeps loosing signal they were within 75 ft

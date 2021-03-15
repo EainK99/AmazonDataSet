@@ -1,0 +1,1 @@
+It works for short burst... Will over heat and stop working for up to 5 mins. Then will run again.

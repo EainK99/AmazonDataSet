@@ -1,0 +1,1 @@
+This AC adapter works very well with my Tascam DR-07 (the original model, NOT a Mark II). I tried an after-market AC adapter, but the DR-07 recognized it as such and wouldn't work at all.

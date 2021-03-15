@@ -1,0 +1,1 @@
+This came in at 27.9W @ 12V for the strip, far short of the 40W promised. You can drive it at 13V and get the 40W.

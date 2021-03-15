@@ -1,0 +1,1 @@
+For a simple lighting system, this does the trick. The transmitter is on the controller and the receivers were on three different lighting trees and everything does what is supposed to. Don't forget the terminators!

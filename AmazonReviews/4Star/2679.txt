@@ -1,0 +1,1 @@
+A great mic, but couldn't get my Mac Pro to read it in Audacity. Was really puzzled, until I saw a tutorial on Utube. The fellow said the likely problem was the cheap usb cable that comes with the mic. Changed<br />It out and problem solved. The mfr. should provide a better quality cable.

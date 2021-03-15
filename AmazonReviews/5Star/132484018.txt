@@ -1,0 +1,1 @@
+Used this to control loads in a server rack.  Works great. Solid.  Have had it for about a year.  The sockets on the back are necessarily placed rather close together so you might need extenders if you have a lot of bricks.

@@ -1,0 +1,1 @@
+The E-mu midi adapter does a fine job.  The new computers don't have a midi joystick port and this little unit fills the need.  Just plug the adapter into your USB port and you have a &#34;midi in&#34; and &#34;midi out&#34; port on your computer.  Works great.

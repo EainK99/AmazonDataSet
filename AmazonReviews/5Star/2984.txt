@@ -1,0 +1,1 @@
+Awesome simple USB controller for 2812s. There are no options to set the amount of LEDs so the patterns are all unlimited repeating, but they're flexible enough that this controller has more uses for me than most of my programmable ones. I initially had removed a star because I was having trouble powering the controller through the strip, but it appears that's my problem.

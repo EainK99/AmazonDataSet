@@ -1,0 +1,1 @@
+These are NOT balanced cables. They will not work with balanced output microphones. They only have one hot lead and all the other pins are grounded. Very misleading.

@@ -1,0 +1,1 @@
+This unit runs extremely hot - over 110 degrees.  Over time, that's really damaging to electrical components.  The documentation packaged with the unit is extremely scanty.  My attempt to download more product documentation from the manufacturer's website resulted in multiple \\"page not available\\" error messages.

@@ -1,0 +1,1 @@
+Causes my other DMX lights to flicker and not follow commands.

@@ -1,0 +1,1 @@
+Using with a 12V LED strip from Supernight. I was a bit worried about the description that in places only indicated 24V, while the product title seemed to indicate that it will work from 5-24V. The verdict -- it works just fine with the 12V strip.

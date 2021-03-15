@@ -1,0 +1,1 @@
+Like:<br />- Easy set up out of the box<br />- Recognized by OS X's Sound control panel - no drivers to load explicitly<br />- Good quality digitized music<br />- Works well as an output from Mac to A/V system<br />So-So:<br />- Switching from internal sound input (or output) to the Behringer requires repeated attempts or quitting the app and then switching.  It's unpredictable.

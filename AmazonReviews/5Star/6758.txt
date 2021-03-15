@@ -1,0 +1,1 @@
+Inexpensive and works precisely as one would expect. As others seem to have also noted, MIDI IN and OUT labels on the device refer to the computer's point of view (logically, if a little confusing), so &#34;IN&#34; goes to the &#34;OUT&#34; port on your keyboard and vice versa.

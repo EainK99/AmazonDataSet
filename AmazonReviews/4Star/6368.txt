@@ -1,0 +1,1 @@
+the only issue is the top border curve that makes a bit more difficult to clip a lamp.

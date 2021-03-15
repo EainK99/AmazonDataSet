@@ -1,0 +1,1 @@
+Works wonderful except the default setup records in wav format. It can record in Mp3 however, there isn't a way you can set<br />Mp3 as the default, and it is not user-friendly in changing it each time to Mp3. Outside of that, we are very pleased with it.

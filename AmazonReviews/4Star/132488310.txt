@@ -1,0 +1,1 @@
+40hz to 1 Khz, Flat.  20hz: - 4db.  2Khz: + 2db. 3Khz: + 10db.  6Khz:  + 6db.  7Khz:  - 4db.  8 KHz: - 10 db.  10 KHz:<br />- 20db.  This response pretty much agrees with what one hears - excellent lows with midrange boosted but rolled off high end.

@@ -1,0 +1,1 @@
+When I apply power to the controller/dimmer the LED lights come on. When I press the buttons on the remote the little red light flashes, so the battery is good, but the remote does not dim or turn them off. Also the controller/dimmer gets really hot. Since this is non-returnable, I filed a claim.

@@ -1,0 +1,1 @@
+Used to connect different generations of sound equipment (XLR vs 1/4'). Perhaps between two mixing boards or a sound processing unit.

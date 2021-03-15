@@ -1,0 +1,1 @@
+Well, it works though not too well, but good for the buck. What I discovered after a while using it - it somehow works better in the beginning of the chain, just after a guitar, otherwise it doesn't cut noise of dist\fuzz pedals at all. Mute function is pretty useful.

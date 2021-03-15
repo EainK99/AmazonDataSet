@@ -1,0 +1,1 @@
+Helps to decouple your loudspeaker from the floor.  Allows the speaker to interface with the air, and not the floor, as it should be.

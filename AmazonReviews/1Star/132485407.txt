@@ -1,0 +1,1 @@
+Works poorly, it takes several times to get the pedal to even register a note,  once it does finally realize that  then it works.  I don't know, maybe there is something wrong with mine but this is how it always has worked.

@@ -1,0 +1,1 @@
+This is an essential adapter--I use it to connect a Midas F32 sound board with external rack-mounted CD player/recorder. Works well and used often in live audio recording.

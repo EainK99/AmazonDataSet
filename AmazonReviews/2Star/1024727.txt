@@ -1,0 +1,1 @@
+Worked great until it started producing a static sound. I tried changing the cable and looking at the connection but it all looks normal. For VOIP's people cant understand me, so I went back to my headset mic.

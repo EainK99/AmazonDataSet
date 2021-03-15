@@ -1,0 +1,1 @@
+LEDs were bright, controller was very easy to use, and had no issues what so ever. If you plan to connect more than one strip you will need a repeater as I connected 5 more meters and could see a the second strip dimming the further down you got. I recommend this repeater: [[ASIN:B00A46UAQO B00A46UAQO]] (I had to switch some wires around to get it to work)

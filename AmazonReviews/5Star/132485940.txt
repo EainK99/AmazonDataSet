@@ -1,0 +1,1 @@
+I read all the technical blogs concerning signal reflection in a dmx daisy chain connection. I can't believe you would not use these! It makes total sense to absorb the signal at the terminus and keep your equipment obeying commands properly. This cleared up an obvious problem just like it was supposed to.

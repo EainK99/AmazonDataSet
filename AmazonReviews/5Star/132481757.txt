@@ -1,0 +1,1 @@
+hello<br /><br />i just want to know how could i keep the LED on one color, without flashing or fading.<br /><br />i tried all day but i couldn't<br /><br />thank you

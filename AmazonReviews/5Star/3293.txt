@@ -1,0 +1,1 @@
+This is a simple and quality soundcard that is compatible to all DAWs that are compatible to ASIO4ALL. You pretty much install ASIO4ALL, plug in the device, and adjust your sound/midi settings and you are ready to record instruments or vocals. And its well worth the $50 bucks, even to use as a back up if decide to upgrade!

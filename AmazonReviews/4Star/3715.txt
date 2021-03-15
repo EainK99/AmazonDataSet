@@ -1,0 +1,1 @@
+The tuner seems to work very accurately, however this unit was supposed to include a metronome function which does not appear to be installed. The value of the unit is reduced because of the absence of the metronome.
